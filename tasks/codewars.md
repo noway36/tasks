@@ -27,7 +27,7 @@ Codewars:
    25. http://www.codewars.com/kata/santaclausable-interface
    26. http://www.codewars.com/kata/new-with-apply
    27. http://www.codewars.com/kata/extract-nested-object-reference
-   28. http://www.codewars.com/kata/array-helpers
+   28. http://www.codewars.com/kata/array-helpers                                                     (done)               
    29. http://www.codewars.com/kata/replicate-new
    30. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
    31. http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
