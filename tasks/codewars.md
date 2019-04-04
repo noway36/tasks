@@ -23,7 +23,7 @@ Codewars:
    21. http://www.codewars.com/kata/function-composition-1
    22. http://www.codewars.com/kata/stringing-me-along                                                (done)
    23. http://www.codewars.com/kata/i-spy
-   24. http://www.codewars.com/kata/calculating-with-functions
+   24. http://www.codewars.com/kata/calculating-with-functions                                        (done)
    25. http://www.codewars.com/kata/santaclausable-interface                                          (done)
    26. http://www.codewars.com/kata/new-with-apply
    27. http://www.codewars.com/kata/extract-nested-object-reference
