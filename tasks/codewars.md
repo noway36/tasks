@@ -22,7 +22,7 @@ Codewars:
    20. http://www.codewars.com/kata/function-composition                                              (done)
    21. http://www.codewars.com/kata/function-composition-1                                            (done)
    22. http://www.codewars.com/kata/stringing-me-along                                                (done)
-   23. http://www.codewars.com/kata/i-spy
+   23. http://www.codewars.com/kata/i-spy                                                             (done)
    24. http://www.codewars.com/kata/calculating-with-functions                                        (done)
    25. http://www.codewars.com/kata/santaclausable-interface                                          (done)
    26. http://www.codewars.com/kata/new-with-apply
