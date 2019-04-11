@@ -25,7 +25,7 @@ Codewars:
    23. http://www.codewars.com/kata/i-spy                                                             (done)
    24. http://www.codewars.com/kata/calculating-with-functions                                        (done)
    25. http://www.codewars.com/kata/santaclausable-interface                                          (done)
-   26. http://www.codewars.com/kata/new-with-apply
+   26. http://www.codewars.com/kata/new-with-apply                                                    (done)
    27. http://www.codewars.com/kata/extract-nested-object-reference
    28. http://www.codewars.com/kata/array-helpers                                                     (done)               
    29. http://www.codewars.com/kata/replicate-new
