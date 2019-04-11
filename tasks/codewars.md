@@ -26,7 +26,7 @@ Codewars:
    24. http://www.codewars.com/kata/calculating-with-functions                                        (done)
    25. http://www.codewars.com/kata/santaclausable-interface                                          (done)
    26. http://www.codewars.com/kata/new-with-apply                                                    (done)
-   27. http://www.codewars.com/kata/extract-nested-object-reference
+   27. http://www.codewars.com/kata/extract-nested-object-reference                                   (done)
    28. http://www.codewars.com/kata/array-helpers                                                     (done)               
    29. http://www.codewars.com/kata/replicate-new
    30. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/                                 (done)
