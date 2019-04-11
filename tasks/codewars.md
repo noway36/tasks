@@ -31,7 +31,7 @@ Codewars:
    29. http://www.codewars.com/kata/replicate-new
    30. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/                                 (done)
    31. http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance             (done)
-   32. http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
+   32. http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters           (done)
 
    ---
      
