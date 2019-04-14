@@ -28,7 +28,7 @@ Codewars:
    26. http://www.codewars.com/kata/new-with-apply                                                    (done)
    27. http://www.codewars.com/kata/extract-nested-object-reference                                   (done)
    28. http://www.codewars.com/kata/array-helpers                                                     (done)               
-   29. http://www.codewars.com/kata/replicate-new
+   29. http://www.codewars.com/kata/replicate-new                                                     (done)
    30. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/                                 (done)
    31. http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance             (done)
    32. http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters           (done)
