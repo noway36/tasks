@@ -16,7 +16,7 @@ Codewars:
    14. http://www.codewars.com/kata/closures-and-scopes                                               (done)
    15. http://www.codewars.com/kata/a-function-within-a-function                                      (done)
    16. http://www.codewars.com/kata/can-you-keep-a-secret                                             (done)
-   17. http://www.codewars.com/kata/using-closures-to-share-class-state
+   17. http://www.codewars.com/kata/using-closures-to-share-class-state                               (done)
    18. http://www.codewars.com/kata/a-chain-adding-function                                           (done)
    19. http://www.codewars.com/kata/function-cache                                                    (done)
    20. http://www.codewars.com/kata/function-composition                                              (done)
